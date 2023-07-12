@@ -5,11 +5,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>kd</title>
-<link rel ="icon" type="image/x-icon" href="<%=root%>/images/favicon.ico"/>
+<title>Insert title here</title>
 </head>
 <body>
 <jsp:include page="/include/header.jsp"/>
-Home page
+join
 </body>
 </html>
